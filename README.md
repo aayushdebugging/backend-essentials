@@ -128,9 +128,7 @@
 7. **Explain the concept of test-driven development (TDD).**
 8. **How do you handle errors in asynchronous functions during testing?**
 9. **Write a test for a function that fetches data from an API.**
-10. **Describe
-
- how you would test a middleware function in Express.js.**
+10. **Describe how you would test a middleware function in Express.js.**
 11. **Describe how you would optimize a Node.js application for high performance and low latency.**
 12. **Explain how you can use caching mechanisms like Redis to improve the performance of a Node.js app.**
 13. **What are the common bottlenecks in a Node.js application, and how can you identify and resolve them?**
